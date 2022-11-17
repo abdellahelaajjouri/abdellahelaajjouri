@@ -4,7 +4,7 @@
 <h2>Hello, I am a young, talented, and creative Moroccan Front end developer.  More than 40 projects are the number of projects I have joined and accomplished. </h2>
 
 <p>
-  *I am a master at HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, and TAILWINDCSS. In addition, I have good graphic design skills with some platforms like Adobe XDand Figma. Besides, I can convert XD and Figma files to HTML. From my own experiences and skills, I can rapidly build a perfectly responsive website that can display on every device from mobile phones to laptops. I will use advanced CSS3 combined with pure javascript or Javascript Frameworks like React.js and Next.js . . . *
+  *Imaster at HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, and TAILWINDCSS. In addition, I have good graphic design skills with some platforms like Adobe XDand Figma. Besides, I can convert XD and Figma files to HTML. From my own experiences and skills, I can rapidly build a perfectly responsive website that can display on every device from mobile phones to laptops. I will use advanced CSS3 combined with pure javascript or Javascript Frameworks like React.js and Next.js . . . *
 </p>
 
 - 🌱 I’m currently learning **Next.js**
