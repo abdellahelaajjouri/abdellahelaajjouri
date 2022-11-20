@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdellah el aajjouri</h1>
 <h3 align="center">A passionate fullstack developer from Morroco</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdellahelaajjouri" alt="abdellahelaajjouri" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellahelaajjouri&show_icons=true&locale=en&layout=compact" alt="abdellahelaajjouri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellahelaajjouri&" alt="abdellahelaajjouri" /></p>
 <h4>About Me</h4> 
 <h2>Hello, I am a young, talented, and creative Moroccan Front end developer.  More than 40 projects are the number of projects I have joined and accomplished. </h2>
 
