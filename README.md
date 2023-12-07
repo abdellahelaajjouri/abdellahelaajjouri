@@ -37,11 +37,11 @@
 <br/>
 
 
-- 👨‍💻 All of my projects are available at [https://sprightly-halva-a2eded.netlify.app/](https://sprightly-halva-a2eded.netlify.app/)
+- 👨‍💻 All of my projects are available in my [protfolio](https://sprightly-halva-a2eded.netlify.app/)
 
 - 📫 How to reach me **abdellah.elaajjouri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lZ3jtVSRxPY9QqsvMBoTeqVP1rQf9Znn/view](https://drive.google.com/file/d/1lZ3jtVSRxPY9QqsvMBoTeqVP1rQf9Znn/view)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1TGq4pz_cOXD6ppuDt4XQOt84tN8FPmj7/view?usp=sharing)
 
 <br/>
 <br/>
