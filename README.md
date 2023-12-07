@@ -20,7 +20,7 @@
 
 <br/>
 
-<h2><code>Hello, I am a young, talented, and creative Moroccan Full-stack developer.  More than 40 projects are the number of projects I have joined and accomplished.
+<h2><code>Hello, I am a young, talented, and creative Moroccan Full-stack developer.  More than 55 projects are the number of projects I have joined and accomplished.
 </code></h2>
 
 
@@ -55,4 +55,4 @@
 <br/>
 
 <h3>Let's Connect:</h3>
-<p><a href="https://www.linkedin.com/in/abdellah-el-aajjouri-890583230/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
+<p><a href="linkedin.com/in/abdellah-el-aajjouri-890583230" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
