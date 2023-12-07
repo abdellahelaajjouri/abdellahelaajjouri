@@ -55,4 +55,4 @@
 <br/>
 
 <h3>Let's Connect:</h3>
-<p><a href="linkedin.com/in/abdellah-el-aajjouri-890583230" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
+<p><a href="https://linkedin.com/in/abdellah-el-aajjouri-890583230" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
