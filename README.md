@@ -15,7 +15,6 @@
 <br/>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellahelaajjouri&" alt="abdellahelaajjouri" /></p>
 <br/>
 <br/>
 <h2>About Me</h3> 
