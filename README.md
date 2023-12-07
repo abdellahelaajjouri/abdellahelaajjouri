@@ -20,7 +20,7 @@
 
 <br/>
 
-<h2><code>Hello, I am a young, talented, and creative Moroccan Front end developer.  More than 40 projects are the number of projects I have joined and accomplished.
+<h2><code>Hello, I am a young, talented, and creative Moroccan Full-stack developer.  More than 40 projects are the number of projects I have joined and accomplished.
 </code></h2>
 
 
